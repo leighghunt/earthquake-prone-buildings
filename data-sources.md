@@ -6,6 +6,7 @@ Wellington
 
 - [WCC Earthquake Prone Building List (pdf)](http://wellington.govt.nz/~/media/services/rates-and-property/earthquake-prone-buildings/files/eqp-building-list.pdf)
   - [Building Rooftop outlines](http://data.wcc.opendata.arcgis.com/datasets/a47c22060000454799755355aaa98756_15)
+  - [Koordinates rooftop outlines and heights](https://koordinates.com/layer/8725-wellington-city-buildings-multipatch-2013/)
   
 Nelson
 ------
